@@ -15,7 +15,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working at Cognizant as a Frontend Software Engineer</i>
+    <i>- Currently working at Cognizant as a Frontend Software Developer</i>
 </h3>
 <br>
 
