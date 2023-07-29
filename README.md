@@ -9,11 +9,11 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean and efficient code.</i>
+    <i>- I am Full Stack Developer skilled in MERN stack who focuses on writing clean and efficient code.</i>
 </h3>
 
 <h3>
-    <i>- Currently working at Cognizant as a Frontend Software Developer</i>
+    <i>- Currently working at Cognizant as a Frontend Software Developer (ReactJS)</i>
 </h3>
 <br>
 
