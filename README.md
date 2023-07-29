@@ -9,7 +9,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I am Full Stack Developer skilled in MERN stack who focuses on writing clean and efficient code.</i>
+    <i>- I am a Full Stack Developer skilled in MERN stack who focuses on writing clean and efficient code.</i>
 </h3>
 
 <h3>
