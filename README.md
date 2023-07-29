@@ -13,7 +13,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working at Cognizant as a Frontend Software Developer (ReactJS)</i>
+    <i>- Currently working at Cognizant as a Frontend Developer (ReactJS)</i>
 </h3>
 <br>
 
